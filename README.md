@@ -9,13 +9,16 @@
 > and step into our MAIN TOPIC!
 
 **RUNTIME EFFECTS**
-WARING:if you are **MAC OS USERS** *Hurry the F_ up and go*
-*is im being so rude?*
-**BEACAUSE IT DOESNT WORK ON ONY CONPUTER THAT DOESNT SUPPORTS .exe FILES**
-Okay Okay Okay
-so only windows users can run it sucsess
 
-and it looks like that MineCraft run on ENAIC
-W/A/S/D to move, or arrow keys
-okay this is the 1st version all!
-have a good play!
+>WARING:if you are **MAC OS USERS** *Hurry the F_ up and go*
+>
+> *is im being so rude?*
+>
+> **BEACAUSE IT DOESNT WORK ON ONY CONPUTER THAT DOESNT SUPPORTS .exe FILES**
+> Okay Okay Okay.
+> so only windows users can run it sucsess.
+> 
+> and it looks like that MineCraft run on ENAIC.
+> W/A/S/D to move, or arrow keys.
+> okay this is the 1st version all!
+> have a good play!
